@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @electropus, im a 15 year old dutch dev that makes projects in a lot of different languages but i am best at C# and java
+- 👋 Hi, I’m electropus, im a 15 year old dutch dev that makes projects in a lot of different languages but i am best at C# and java
 - 👀 I’m interested in getting better at programming
 - 🌱 I’m currently learning HTML, CSS and javascipt
 - 💞️ I’m looking to collaborate on all kinds of projects, for me its not about the end result its about how i made it
