@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on all kinds of projects, for me its not about the end result its about how i made it
 - 📫 How to reach me: i rarely check my mail so best thing you could do is send me a dm on insta: marijns_alt_account
 - I've worked on a lot of projects that i did not put on here so i'll make a list:
-Multiple utility plugins for minecraft 1.19.2 bukkit
-A couple discord bots
-A love tester website (this one is on here)
-Some roblox games and i've also worked on my own roblox exploit GUI.
+- Multiple utility plugins for minecraft 1.19.2 bukkit
+- A couple discord bots
+- A love tester website (this one is on here)
+- Some roblox games and i've also worked on my own roblox exploit GUI.
 
 <!---
 electropus/electropus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
